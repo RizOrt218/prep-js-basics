@@ -105,6 +105,9 @@ console.log = dinner;
 * store the return value to a variable and use console.log to inspect the value which was passed back by your function
 **/
 
+function jump(height){
+	console.log("You jumped" + jump + "feet high!")
+}
 
 /**
 * #7b
@@ -115,7 +118,9 @@ console.log = dinner;
 * this function should return a String along the lines of, "Tomatoes and Cheese make a Pizza!"
 * if invoked in this way -> cook("Tomatoes", "Cheese", "Pizza");
 **/
-
+function cook( ingredient1, ingredient2, recipeName){
+	console.log( ingredient1 + "and" + ingredient2 + "make a" + recipeName + "!")
+}
 
 
 /**
