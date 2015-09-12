@@ -22,7 +22,7 @@ var birth_place = "Phillippines";
 **/
 var favoriteNumber = 18;
 var currentYear = 2015;
-var thatOnePrinceSong = 
+var thatOnePrinceSong = 1999;
 
 
 /**
@@ -32,8 +32,10 @@ var thatOnePrinceSong =
 * declare variables named `isDaytime`, `isLeftHanded`, `inHawaii`, and `isHappyCoding`
 * Their values should be a Boolean
 **/
-
-var isDayTime = ()
+var isDayTime = false;
+var isLeftHanded = false;
+var inHawaii = true;
+var isHappyCoding = true;
 
 /**
 * #4
