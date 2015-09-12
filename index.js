@@ -7,6 +7,9 @@
 * declare variables named `first_name`, `last_name`, and `birth_place`.
 * Fill out the values for these with your own data or make it up. It should contain a String
 **/
+var first_name = "Rizhia";
+var last_name = "Ortega";
+var birth_place = "Phillippines";
 
 
 
@@ -17,7 +20,9 @@
 * declare variables named `favorite_number`, `current_year`, and `that_one_prince_song`.
 * Their values should be a Number
 **/
-
+var favoriteNumber = 18;
+var currentYear = 2015;
+var thatOnePrinceSong = 
 
 
 /**
@@ -28,7 +33,7 @@
 * Their values should be a Boolean
 **/
 
-
+var isDayTime = ()
 
 /**
 * #4
