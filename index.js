@@ -71,20 +71,27 @@ console.log(evenNumbers[3]);
 /**
 * #6a Arithmetic
 */
+var difference = 6 - 4;
+console.log(difference)
 
+var multiply = 3 * 7;
+console.log(multiply)
+
+var mod = 18 % 3;
+console.log(mod)
 
 
 /**
 * #6b Comparisons & Logic
 */
-
+var x > 10
 
 
 /**
 * #6c Assignments
 */
-
-
+var dinner = ("chicken" + "salad");
+console.log = dinner;
 
 /**
 * #7a
@@ -97,7 +104,6 @@ console.log(evenNumbers[3]);
 *
 * store the return value to a variable and use console.log to inspect the value which was passed back by your function
 **/
-
 
 
 /**
